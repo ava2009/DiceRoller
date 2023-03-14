@@ -13,8 +13,3 @@ btn.addEventListener( 'click', () => {
     result.textContent = randomFaceNum + randomFaceNum2; // This is the sum of the first number and the second number, and is printed on the page.
 });
 
-
-
-
-
-
